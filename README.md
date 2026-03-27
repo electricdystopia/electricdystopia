@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+  <img src="[https://github.com/electricdystopia/electricdystopia/blob/main/Profile.png]"/>
+</p>
+
 ![](https://komarev.com/ghpvc/?username=electricdystopia)
 
 ## **Some meaningless fancy stats**
@@ -23,7 +27,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=electricdystopia&show_icons=true&theme=radical&hide_border=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=electricdystopia&theme=radical&hide_border=true" width="51%"/>
 </p>
-
 
 
 <p align="center">
