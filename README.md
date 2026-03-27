@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="[https://github.com/electricdystopia/electricdystopia/blob/main/Profile.png]"/>
+  <img src="https://github.com/electricdystopia/electricdystopia/blob/main/Profile.png"/>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=electricdystopia)
