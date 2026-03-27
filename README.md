@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/electricdystopia/electricdystopia/main/images/newbg(1).png" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/github/commit-activity/m/electricdystopia/electricdystopia" />
   <img src="https://img.shields.io/github/repo-size/electricdystopia/electricdystopia" />
   <img src="https://img.shields.io/github/last-commit/electricdystopia/electricdystopia" />
@@ -48,9 +44,8 @@
 <h2 align="center">My Contribution Graph 🐍</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/electricdystopia/electricdystopia/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/electricdystopia/electricdystopia/gh-pages/github-contribution-grid-snake.svg" />
 </p>
-
 ---
 
 <h2 align="center">My GitHub Stats 📊</h2>
