@@ -42,14 +42,14 @@
 </p>
 
 ---
-<!--
+
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/electricdystopia/electricdystopia/gh-pages/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/electricdystopia/electricdystopia/output/github-contribution-grid-snake.svg" />
 </p>
 
---->
+
 
 ## ⚡ About Me
 
