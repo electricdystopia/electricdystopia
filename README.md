@@ -30,11 +30,17 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=electricdystopia&show_icons=true&theme=tokyonight" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=electricdystopia&show_icons=true&theme=tokyonight"
+    alt="GitHub stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=electricdystopia&layout=compact&theme=tokyonight" />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=electricdystopia&layout=compact&theme=tokyonight"
+    alt="Most-used languages"
+  />
 </p>
 
 <p align="center">
